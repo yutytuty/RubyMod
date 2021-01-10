@@ -9,7 +9,7 @@
           "children": [
             {
               "type": "minecraft:item",
-              "name": "tutorial:ruby_ore",
+              "name": "rubymod:ruby_ore",
               "conditions": [
                 {
                   "condition": "minecraft:match_tool",
@@ -28,7 +28,7 @@
             },
             {
               "type": "minecraft:item",
-              "name": "tutorial:ruby",
+              "name": "rubymod:ruby",
               "functions": [
                 {
                   "function": "minecraft:apply_bonus",

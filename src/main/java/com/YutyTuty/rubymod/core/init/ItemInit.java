@@ -1,8 +1,8 @@
-package com.YutyTuty.tutorial.core.init;
+package com.YutyTuty.rubymod.core.init;
 
-import com.YutyTuty.tutorial.TutorialMod;
-import com.YutyTuty.tutorial.core.enums.ArmorMaterialList;
-import com.YutyTuty.tutorial.core.enums.ToolMaterialList;
+import com.YutyTuty.rubymod.TutorialMod;
+import com.YutyTuty.rubymod.core.enums.ArmorMaterialList;
+import com.YutyTuty.rubymod.core.enums.ToolMaterialList;
 import net.minecraft.inventory.EquipmentSlotType;
 import net.minecraft.item.*;
 import net.minecraftforge.fml.RegistryObject;

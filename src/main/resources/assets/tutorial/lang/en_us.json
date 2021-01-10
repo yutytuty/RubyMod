@@ -1,15 +1,15 @@
 {
-  "item.tutorial.ruby": "Ruby",
-  "block.tutorial.ruby_block": "Ruby Block",
-  "itemGroup.tutorial_mod": "Rubies",
-  "item.tutorial.ruby_sword": "Ruby Sword",
-  "item.tutorial.ruby_axe": "Ruby Axe",
-  "item.tutorial.ruby_hoe": "Ruby Hoe",
-  "item.tutorial.ruby_pickaxe": "Ruby Pickaxe",
-  "item.tutorial.ruby_shovel": "Ruby Shovel",
-  "item.tutorial.ruby_helmet": "Ruby Helmet",
-  "item.tutorial.ruby_chestplate": "Ruby Chestplate",
-  "item.tutorial.ruby_leggings": "Ruby Leggings",
-  "item.tutorial.ruby_boots": "Ruby Boots",
-  "block.tutorial.ruby_ore": "Ruby Ore"
+  "item.rubymod.ruby": "Ruby",
+  "block.rubymod.ruby_block": "Ruby Block",
+  "itemGroup.ruby_tab": "Rubies",
+  "item.rubymod.ruby_sword": "Ruby Sword",
+  "item.rubymod.ruby_axe": "Ruby Axe",
+  "item.rubymod.ruby_hoe": "Ruby Hoe",
+  "item.rubymod.ruby_pickaxe": "Ruby Pickaxe",
+  "item.rubymod.ruby_shovel": "Ruby Shovel",
+  "item.rubymod.ruby_helmet": "Ruby Helmet",
+  "item.rubymod.ruby_chestplate": "Ruby Chestplate",
+  "item.rubymod.ruby_leggings": "Ruby Leggings",
+  "item.rubymod.ruby_boots": "Ruby Boots",
+  "block.rubymod.ruby_ore": "Ruby Ore"
 }

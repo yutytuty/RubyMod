@@ -4,7 +4,7 @@ license="All rights reserved"
 issueTrackerURL="http://my.issue.tracker/"
 
 [[mods]]
-modId="tutorial"
+modId="rubymod"
 version="1.0"
 displayName="Ruby Mod"
 credits="ME!"
@@ -13,14 +13,14 @@ description='''
 A super shitty basic mod.
 '''
 
-[[dependencies.tutorial]]
+[[dependencies.rubymod]]
     modId="forge"
     mandatory=true
     versionRange="[35,)"
     ordering="NONE"
     side="BOTH"
 
-[[dependencies.tutorial]]
+[[dependencies.rubymod]]
     modId="minecraft"
     mandatory=true
     versionRange="[1.16.4,1.17)"

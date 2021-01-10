@@ -1,7 +1,7 @@
-package com.YutyTuty.tutorial.core.enums;
+package com.YutyTuty.rubymod.core.enums;
 
-import com.YutyTuty.tutorial.TutorialMod;
-import com.YutyTuty.tutorial.core.init.ItemInit;
+import com.YutyTuty.rubymod.TutorialMod;
+import com.YutyTuty.rubymod.core.init.ItemInit;
 import net.minecraft.inventory.EquipmentSlotType;
 import net.minecraft.item.IArmorMaterial;
 import net.minecraft.item.Item;

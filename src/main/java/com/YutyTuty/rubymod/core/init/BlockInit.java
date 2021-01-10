@@ -1,6 +1,6 @@
-package com.YutyTuty.tutorial.core.init;
+package com.YutyTuty.rubymod.core.init;
 
-import com.YutyTuty.tutorial.TutorialMod;
+import com.YutyTuty.rubymod.TutorialMod;
 import net.minecraft.block.AbstractBlock;
 import net.minecraft.block.Block;
 import net.minecraft.block.OreBlock;

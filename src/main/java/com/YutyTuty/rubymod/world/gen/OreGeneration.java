@@ -1,7 +1,7 @@
-package com.YutyTuty.tutorial.world.gen;
+package com.YutyTuty.rubymod.world.gen;
 
-import com.YutyTuty.tutorial.TutorialMod;
-import com.YutyTuty.tutorial.core.init.BlockInit;
+import com.YutyTuty.rubymod.TutorialMod;
+import com.YutyTuty.rubymod.core.init.BlockInit;
 import net.minecraft.util.registry.Registry;
 import net.minecraft.util.registry.WorldGenRegistries;
 import net.minecraft.world.gen.GenerationStage;

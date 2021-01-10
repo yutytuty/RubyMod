@@ -7,12 +7,12 @@
   ],
   "key": {
     "#": {
-      "item": "tutorial:ruby"
+      "item": "rubymod:ruby"
     }
   },
   "result": {
-    "item": "tutorial:ruby_block",
+    "item": "rubymod:ruby_block",
     "count": 1
   },
-  "group": "tutorial"
+  "group": "rubymod"
 }

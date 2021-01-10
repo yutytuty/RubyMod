@@ -1,6 +1,6 @@
-package com.YutyTuty.tutorial.core.enums;
+package com.YutyTuty.rubymod.core.enums;
 
-import com.YutyTuty.tutorial.core.init.ItemInit;
+import com.YutyTuty.rubymod.core.init.ItemInit;
 import net.minecraft.item.IItemTier;
 import net.minecraft.item.Item;
 import net.minecraft.item.crafting.Ingredient;

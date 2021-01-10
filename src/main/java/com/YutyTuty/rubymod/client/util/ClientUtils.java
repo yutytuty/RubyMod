@@ -1,4 +1,4 @@
-package com.YutyTuty.tutorial.client.util;
+package com.YutyTuty.rubymod.client.util;
 
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.api.distmarker.OnlyIn;

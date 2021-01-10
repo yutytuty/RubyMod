@@ -1,8 +1,8 @@
-package com.YutyTuty.tutorial;
+package com.YutyTuty.rubymod;
 
-import com.YutyTuty.tutorial.core.init.BlockInit;
-import com.YutyTuty.tutorial.core.init.ItemInit;
-import com.YutyTuty.tutorial.world.gen.OreGeneration;
+import com.YutyTuty.rubymod.core.init.BlockInit;
+import com.YutyTuty.rubymod.core.init.ItemInit;
+import com.YutyTuty.rubymod.world.gen.OreGeneration;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
 import net.minecraftforge.common.MinecraftForge;
@@ -18,13 +18,13 @@ import org.apache.logging.log4j.Logger;
 To get the right ruby color from iron items you need to use HSV: (0, 100, 60) and an alpha of 175
  */
 
-@Mod("tutorial")
+@Mod("rubymod")
 public class TutorialMod
 {
-    public static final String MOD_ID = "tutorial";
+    public static final String MOD_ID = "rubymod";
     public static final Logger LOGGER = LogManager.getLogger();
 
-    public static final ItemGroup ITEM_GROUP = (new ItemGroup("tutorial_mod") {
+    public static final ItemGroup ITEM_GROUP = (new ItemGroup("ruby_tab") {
         @SuppressWarnings("NullableProblems")
         @Override
         public ItemStack createIcon() {

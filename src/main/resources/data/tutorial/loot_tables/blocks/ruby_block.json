@@ -6,12 +6,12 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "tutorial:ruby_block"
+          "name": "rubymod:ruby_block"
         }
       ],
       "conditions": [
         {
-          "condition": "minecraft:survives_explosion"
+          "condition": "rubymod:survives_explosion"
         }
       ]
     }
