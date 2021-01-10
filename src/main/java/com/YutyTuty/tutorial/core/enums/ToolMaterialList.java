@@ -7,7 +7,7 @@ import net.minecraft.item.crafting.Ingredient;
 
 public enum ToolMaterialList implements IItemTier
 {
-	RUBY(10.0f, 9.0f, 800, 3, 25, ItemInit.RUBY.get());
+	RUBY(10.0f, 10.0f, 2500, 3, 25, ItemInit.RUBY.get());
 
 	private final float ATTACK_DAMAGE;
 	private final float EFFICIENCY;
