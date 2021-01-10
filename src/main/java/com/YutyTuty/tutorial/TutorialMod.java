@@ -2,6 +2,7 @@ package com.YutyTuty.tutorial;
 
 import com.YutyTuty.tutorial.core.init.BlockInit;
 import com.YutyTuty.tutorial.core.init.ItemInit;
+import com.YutyTuty.tutorial.world.gen.OreGeneration;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
 import net.minecraftforge.common.MinecraftForge;
@@ -43,6 +44,6 @@ public class TutorialMod
 
     private void setup(final FMLCommonSetupEvent event)
     {
-
+        OreGeneration.registerOre();
     }
 }
