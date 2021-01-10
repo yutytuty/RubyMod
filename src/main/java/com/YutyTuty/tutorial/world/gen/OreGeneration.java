@@ -25,8 +25,8 @@ public class OreGeneration {
 	{
 		OVERWORLD_ORE.add(register("ruby_ore", Feature.ORE.withConfiguration(new OreFeatureConfig(
 				OreFeatureConfig.FillerBlockType.BASE_STONE_OVERWORLD, BlockInit.RUBY_ORE.get().getDefaultState(), 8))
-				.range(128)
-				.func_242731_b(64)
+				.range(20).square()
+				.func_242731_b(3)
 		));
 	}
 
