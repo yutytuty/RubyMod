@@ -11,7 +11,7 @@ import net.minecraft.util.SoundEvent;
 
 public enum ArmorMaterialList implements IArmorMaterial
 {
-    RUBY("ruby", 2000, new int[] {5, 8, 7, 4}, 25, ItemInit.RUBY.get(), "", 0f, 0f);
+    RUBY("ruby", 2000, new int[] {3, 8, 6, 3}, 25, ItemInit.RUBY.get(), "", 4f, 0.2f);
 
     private final int[] MAX_DAMAGE_ARRAY = new int[]{13, 15, 16, 11};
     private final String NAME;
