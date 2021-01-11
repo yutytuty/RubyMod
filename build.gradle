@@ -14,8 +14,8 @@ apply plugin: 'eclipse'
 apply plugin: 'maven-publish'
 
 version = '1.0'
-group = 'com.YutyTuty.tutorial' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = 'tutorial'
+group = 'com.YutyTuty.rubymod' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+archivesBaseName = 'rubymod'
 
 sourceCompatibility = targetCompatibility = compileJava.sourceCompatibility = compileJava.targetCompatibility = '1.8' // Need this here so eclipse task generates correctly.
 
@@ -112,7 +112,6 @@ dependencies {
     // deobf 'com.mod-buildcraft:buildcraft:6.0.8:dev'
 
     // For more info...
-    // http://www.gradle.org/docs/current/userguide/artifact_dependencies_tutorial.html
     // http://www.gradle.org/docs/current/userguide/dependency_management.html
 
 }
