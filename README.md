@@ -1,3 +1,3 @@
-## Tutorial
+## Ruby Mod
 
-Oh well, here we go
+The shittiest of mods
